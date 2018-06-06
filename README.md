@@ -1,2 +1,0 @@
-# ReactNativeContextDemo
-Created with CodeSandbox
